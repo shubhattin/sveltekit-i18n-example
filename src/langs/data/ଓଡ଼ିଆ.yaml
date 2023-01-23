@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ଭୁଲ୍ କୀ
+    pass_input: ପାସୱାର୍ଡ୍ ପ୍ରବେଶ କରନ୍ତୁ
+    title: ଟ୍ରାକର୍

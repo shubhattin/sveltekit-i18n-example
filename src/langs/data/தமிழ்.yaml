@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: தவறான விசை
+    pass_input: கடவுச்சொல்லை உள்ளிடவும்
+    title: தடம்பார்த்துச் செல்பவர்

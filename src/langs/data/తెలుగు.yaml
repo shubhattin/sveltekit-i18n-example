@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: తప్పు కీ
+    pass_input: పాస్ వర్డ్ నమోదు చేయండి
+    title: ట్రాకర్

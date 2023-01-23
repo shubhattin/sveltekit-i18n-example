@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: अनुचित कीलक
+    pass_input: गूढपद लिखें
+    title: प्राभिज्ञाता

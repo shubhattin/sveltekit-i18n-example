@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ತಪ್ಪು ಕೀಲಿ
+    pass_input: ಪಾಸ್ ವರ್ಡ್ ನಮೂದಿಸಿ
+    title: ಟ್ರ್ಯಾಕರ್

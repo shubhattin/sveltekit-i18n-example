@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: चुकीची कळ
+    pass_input: गुप्तशब्द प्रविष्ट करा
+    title: ट्रॅकर

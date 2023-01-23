@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ভুল কী
+    pass_input: পাসওয়ার্ড লিখুন
+    title: ট্র্যাকার

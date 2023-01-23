@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ખોટી કી
+    pass_input: પાસવર્ડ દાખલ કરો
+    title: ટ્રેકર

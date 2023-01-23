@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ভুল কী
+    pass_input: পাছৱাৰ্ড প্ৰবিষ্ট কৰক
+    title: ট্ৰেকাৰ

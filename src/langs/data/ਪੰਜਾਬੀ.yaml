@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: ਗਲਤ ਕੁੰਜੀ
+    pass_input: ਪਾਸਵਰਡ ਦਿਓ
+    title: ਟਰੈਕਰ

@@ -1,0 +1,5 @@
+client:
+  tracker:
+    pass_error: തെറ്റായ കീ
+    pass_input: അടയാളവാക്ക് നൽകുക
+    title: ട്രാക്കർ

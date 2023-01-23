@@ -1,0 +1,8 @@
+[build]
+command = "pip3 install shubhlipi pyyaml && python3 karah.py build"
+publish = "build"
+[build.environment]
+NODE_VERSION = "18.13.0"
+PYTHON_VERSION = "3.8"
+[dev]
+targetPort = 5173
