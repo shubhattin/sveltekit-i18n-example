@@ -14,7 +14,6 @@
     "local-test": "serve build"
   },
   "devDependencies": {
-    "@peculiar/webcrypto": "^1.4.1",
     "@sveltejs/adapter-netlify": "^1.0.3",
     "@sveltejs/kit": "^1.1.1",
     "@types/js-yaml": "^4.0.5",
