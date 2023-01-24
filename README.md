@@ -17,6 +17,8 @@ Available in :-
 [Oriya](https://sveltekit-i18n-example.netlify.app/or) |
 [Urdu](https://sveltekit-i18n-example.netlify.app/ur)
 
+**_[Cloudflare Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/cloudflare)_**
+
 ## Language files
 
 The Language databases are stored in [`src/langs/data`](./src/langs/data) directory.  
