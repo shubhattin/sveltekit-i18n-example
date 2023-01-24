@@ -1,4 +1,4 @@
-# Basic Sveltekit i18n App Example hosted on Netlify Functions
+# Basic Sveltekit i18n App Example hosted on Netlify
 
 A simple example of multi lingual App
 
