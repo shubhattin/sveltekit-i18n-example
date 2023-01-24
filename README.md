@@ -3,19 +3,21 @@
 A simple example of multi lingual App
 
 Available in :-
-[Sanskrit](https://sveltekit-i18n-example.netlify.app) |
-[English](https://sveltekit-i18n-example.netlify.app/en) |
-[Hindi](https://sveltekit-i18n-example.netlify.app/hi) |
-[Tamil](https://sveltekit-i18n-example.netlify.app/ta) |
-[Telugu](https://sveltekit-i18n-example.netlify.app/te) |
-[Kannada](https://sveltekit-i18n-example.netlify.app/kn) |
-[Malayalam](https://sveltekit-i18n-example.netlify.app/ml) |
-[Bengali](https://sveltekit-i18n-example.netlify.app/bn) |
-[Gujarati](https://sveltekit-i18n-example.netlify.app/gu) |
-[Punjabi](https://sveltekit-i18n-example.netlify.app/pa) |
-[Marathi](https://sveltekit-i18n-example.netlify.app/mr) |
-[Oriya](https://sveltekit-i18n-example.netlify.app/or) |
-[Urdu](https://sveltekit-i18n-example.netlify.app/ur)
+[Sanskrit](https://sveltekit-i18n-example.pages.dev) |
+[English](https://sveltekit-i18n-example.pages.dev/en) |
+[Hindi](https://sveltekit-i18n-example.pages.dev/hi) |
+[Tamil](https://sveltekit-i18n-example.pages.dev/ta) |
+[Telugu](https://sveltekit-i18n-example.pages.dev/te) |
+[Kannada](https://sveltekit-i18n-example.pages.dev/kn) |
+[Malayalam](https://sveltekit-i18n-example.pages.dev/ml) |
+[Bengali](https://sveltekit-i18n-example.pages.dev/bn) |
+[Gujarati](https://sveltekit-i18n-example.pages.dev/gu) |
+[Punjabi](https://sveltekit-i18n-example.pages.dev/pa) |
+[Marathi](https://sveltekit-i18n-example.pages.dev/mr) |
+[Oriya](https://sveltekit-i18n-example.pages.dev/or) |
+[Urdu](https://sveltekit-i18n-example.pages.dev/ur)
+
+**_[Netlify Version](https://github.com/shubhattin/sveltekit-i18n-example/tree/main)_**
 
 ## Language files
 
