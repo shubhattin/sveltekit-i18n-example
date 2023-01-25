@@ -18,6 +18,7 @@ Available in :-
 [Urdu](https://sveltekit-i18n-example.pages.dev/ur)
 
 **_[Netlify Version](https://github.com/shubhattin/sveltekit-i18n-example/tree/main)_**
+**_[Vercel Version](https://github.com/shubhattin/sveltekit-i18n-example/tree/vercel)_**
 
 ## Language files
 
