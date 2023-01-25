@@ -13,8 +13,8 @@ const config = {
   ],
   kit: {
     adapter: adapter({
-      // edge: true
-      split: true
+      edge: true
+      // split: true
     })
     // prerender: {
     //   entries: routes
