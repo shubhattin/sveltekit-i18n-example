@@ -14,7 +14,7 @@
     "local-test": "serve build"
   },
   "devDependencies": {
-    "@sveltejs/adapter-netlify": "^1.0.3",
+    "@sveltejs/adapter-vercel": "^1.0.5",
     "@sveltejs/kit": "^1.1.1",
     "@types/js-yaml": "^4.0.5",
     "@zerodevx/svelte-toast": "^0.8.2",
