@@ -18,6 +18,7 @@ Available in :-
 [Urdu](https://sveltekit-i18n-example.netlify.app/ur)
 
 **_[Cloudflare Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/cloudflare)_**
+**_[Vercel Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/vercel)_**
 
 ## Language files
 
