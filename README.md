@@ -3,21 +3,22 @@
 A simple example of multi lingual App
 
 Available in :-
-[Sanskrit](https://sveltekit-i18n-example.netlify.app) |
-[English](https://sveltekit-i18n-example.netlify.app/en) |
-[Hindi](https://sveltekit-i18n-example.netlify.app/hi) |
-[Tamil](https://sveltekit-i18n-example.netlify.app/ta) |
-[Telugu](https://sveltekit-i18n-example.netlify.app/te) |
-[Kannada](https://sveltekit-i18n-example.netlify.app/kn) |
-[Malayalam](https://sveltekit-i18n-example.netlify.app/ml) |
-[Bengali](https://sveltekit-i18n-example.netlify.app/bn) |
-[Gujarati](https://sveltekit-i18n-example.netlify.app/gu) |
-[Punjabi](https://sveltekit-i18n-example.netlify.app/pa) |
-[Marathi](https://sveltekit-i18n-example.netlify.app/mr) |
-[Oriya](https://sveltekit-i18n-example.netlify.app/or) |
-[Urdu](https://sveltekit-i18n-example.netlify.app/ur)
+[Sanskrit](https://sveltekit-i18n-example.vercel.app) |
+[English](https://sveltekit-i18n-example.vercel.app/en) |
+[Hindi](https://sveltekit-i18n-example.vercel.app/hi) |
+[Tamil](https://sveltekit-i18n-example.vercel.app/ta) |
+[Telugu](https://sveltekit-i18n-example.vercel.app/te) |
+[Kannada](https://sveltekit-i18n-example.vercel.app/kn) |
+[Malayalam](https://sveltekit-i18n-example.vercel.app/ml) |
+[Bengali](https://sveltekit-i18n-example.vercel.app/bn) |
+[Gujarati](https://sveltekit-i18n-example.vercel.app/gu) |
+[Punjabi](https://sveltekit-i18n-example.vercel.app/pa) |
+[Marathi](https://sveltekit-i18n-example.vercel.app/mr) |
+[Oriya](https://sveltekit-i18n-example.vercel.app/or) |
+[Urdu](https://sveltekit-i18n-example.vercel.app/ur)
 
 **_[Cloudflare Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/cloudflare)_**
+**_[Netlify Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/main)_**
 
 ## Language files
 
