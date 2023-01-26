@@ -12,7 +12,3 @@ node_modules
 pnpm-lock.yaml
 src/langs/data_json
 static/404.html
-# use this for safety
-# "endOfLine": "crlf", in .prettierrc
-# git config core.autocrlf true
-# git config core.safecrlf false
