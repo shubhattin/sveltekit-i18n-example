@@ -2,24 +2,6 @@
 
 A simple example of multi lingual App
 
-Available in :-
-[Sanskrit](https://sveltekit-i18n-example.netlify.app) |
-[English](https://sveltekit-i18n-example.netlify.app/en) |
-[Hindi](https://sveltekit-i18n-example.netlify.app/hi) |
-[Tamil](https://sveltekit-i18n-example.netlify.app/ta) |
-[Telugu](https://sveltekit-i18n-example.netlify.app/te) |
-[Kannada](https://sveltekit-i18n-example.netlify.app/kn) |
-[Malayalam](https://sveltekit-i18n-example.netlify.app/ml) |
-[Bengali](https://sveltekit-i18n-example.netlify.app/bn) |
-[Gujarati](https://sveltekit-i18n-example.netlify.app/gu) |
-[Punjabi](https://sveltekit-i18n-example.netlify.app/pa) |
-[Marathi](https://sveltekit-i18n-example.netlify.app/mr) |
-[Oriya](https://sveltekit-i18n-example.netlify.app/or) |
-[Urdu](https://sveltekit-i18n-example.netlify.app/ur)
-
-**_[Cloudflare Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/cloudflare)_**
-**_[Vercel Versiion](https://github.com/shubhattin/sveltekit-i18n-example/tree/vercel)_**
-
 ## Language files
 
 The Language databases are stored in [`src/langs/data`](./src/langs/data) directory.  
